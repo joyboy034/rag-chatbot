@@ -183,7 +183,6 @@ rag-chatbot/
 ## Built By
 
 **Utkarsh Singh**
-NSUT Delhi
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-347609366)
 - 💻 [GitHub](https://github.com/joyboy034)
